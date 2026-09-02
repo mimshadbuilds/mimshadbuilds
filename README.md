@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Mimshadur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mimshadbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="mimshadbuilds" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=mimshadbuilds&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimshadbuilds" alt="mimshadbuilds" /></a> </p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=mimshadbuilds)
 
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Tailwind CSS for frontend development.**
 
@@ -14,9 +14,10 @@
 
 - 🗄️ Using **Node.js, Express.js, MongoDB and PostgreSQL for the backend.**
 
-- 👨‍💻 Explore My Portfolio at [https://portfolio-mr.web.app](https://portfolio-mr.web.app)
+- 👨‍💻 Explore My Portfolio at 🔗 [Visit my portfolio](https://portfolio-mr.web.app)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mimshad7/](https://www.linkedin.com/in/mimshad7/)
+
+- 📝 I regularly write articles on  🔗 [LinkedIn](https://www.linkedin.com/in/mimshad7/)
 
 - 💬 Ask me about **javaScript, react, vue, next, django**
 
