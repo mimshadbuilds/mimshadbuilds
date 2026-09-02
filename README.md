@@ -1,5 +1,6 @@
 <img width="2048" height="512" alt="banner_git_ln" src="https://github.com/user-attachments/assets/1e19d2f6-6365-4ad7-b4f6-140ba3cfca35" />
 
+
 <h1 align="center">Hi 👋, I'm Mimshadur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -7,7 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimshadbuilds" alt="mimshadbuilds" /></a> </p>
 
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Tailwind CSS for frontend development.**
+
 - 🛠️ I’m currently learning **TypeScript, React.js, Redux, Next.js, Express.js**
+
+- 🗄️ Using **Node.js, Express.js, MongoDB and PostgreSQL for the backend.**
 
 - 👨‍💻 Explore My Portfolio at [https://portfolio-mr.web.app](https://portfolio-mr.web.app)
 
@@ -15,9 +20,9 @@
 
 - 💬 Ask me about **javaScript, react, vue, next, django**
 
-- 📫 How to reach me mimshad.cse41@gmail.com#:~:text=Email
+- 📫 How to reach me **mimshad.cse41@gmail.com#:~:text=Email**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume)
 
 - ⚡ Fun fact **I am reserved. that's funny, right?**
 
@@ -42,3 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimshadbuilds&show_icons=true&locale=en" alt="mimshadbuilds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimshadbuilds&" alt="mimshadbuilds" /></p>
+
