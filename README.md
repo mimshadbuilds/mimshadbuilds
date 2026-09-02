@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **javaScript, react, vue, next, django**
 
-- 📫 How to reach me **mimshad.cse41@gmail.com**
+- 📫 How to reach me mimshad.cse41@gmail.com#:~:text=Email
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume)]([Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume))
+- 📄 Know about my experiences https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume
 
 - ⚡ Fun fact **I am reserved. that's funny, right?**
 
