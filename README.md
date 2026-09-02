@@ -20,9 +20,9 @@
 
 - 💬 Ask me about **javaScript, react, vue, next, django**
 
-- 📫 How to reach me **mimshad.cse41@gmail.com#:~:text=Email**
+- 📫 How to reach me **[Email](mimshad.cse41@gmail.com#:~:text=Email)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=sharing#:~:text=Resume)
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link#:~:text=Resume)]([Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link#:~:text=Resume))
 
 - ⚡ Fun fact **I am reserved. that's funny, right?**
 
@@ -47,4 +47,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimshadbuilds&show_icons=true&locale=en" alt="mimshadbuilds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimshadbuilds&" alt="mimshadbuilds" /></p>
+
 
