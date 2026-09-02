@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30"/>
   </a>&nbsp;
   <a href="https://linkedin.com/in/mimshad7" target="_blank" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" width="30"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30"/>
   </a>&nbsp;
   <a href="https://stackoverflow.com/users/12125940" target="_blank" title="Stack Overflow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" width="30"/>
@@ -80,14 +80,7 @@
   <strong>Tools:</strong>
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
+  &nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40"/>
+  &nbsp;<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimshadbuilds&show_icons=true&locale=en&layout=compact" alt="mimshadbuilds" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimshadbuilds&show_icons=true&locale=en" alt="mimshadbuilds" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimshadbuilds&" alt="mimshadbuilds" /></p>
