@@ -8,7 +8,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mimshadbuilds)
 
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Tailwind CSS for frontend development.**
+- 🖥️ I’m currently working on **NEXT.js with TypeScript and working on a Metro Pass authentication system web app **
 
 - 🛠️ I’m currently learning **TypeScript, React.js, Redux, Next.js, Express.js**
 
