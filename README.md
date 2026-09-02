@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **javaScript, react, vue, next, django**
 
-- 📫 How to reach me **[Email](mimshad.cse41@gmail.com#:~:text=Email)**
+- 📫 How to reach me <a href="mimshad.cse41@gmail.com#:~:text=Email">Email</a>
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link#:~:text=Resume)]([Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link#:~:text=Resume))
 
