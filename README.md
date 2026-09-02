@@ -6,8 +6,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mimshadbuilds&label=Profile%20views&color=0e75b6&style=flat)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mimshadbuilds)
-
 - 🖥️ I’m exploring **NEXT.js with TypeScript and working on a Metro Pass authentication system web app**
 
 - 🛠️ I’m currently learning **TypeScript, React.js, Redux, Next.js, Express.js**
@@ -40,7 +38,7 @@
   <a href="https://www.leetcode.com/mimshadmim" target="blank" title="LeetCode"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="leetcode" width="30"/></a>
 </p>
 
-<h3 align="left">Skills / দক্ষতাসমূহ</h3>
+<h3 align="left">Skills: </h3>
 <p align="left">
   <!-- Frontend -->
   <strong>Frontend:</strong>
