@@ -29,15 +29,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/iam7mim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30"/></a>&nbsp;
-  <a href="https://linkedin.com/in/mimshad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" width="30"/></a>&nbsp;
-  <a href="https://stackoverflow.com/users/12125940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" width="30"/></a>&nbsp;
-  <a href="https://fb.com/mimshad.mim.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30"/></a>&nbsp;
-  <a href="https://instagram.com/mimshad18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30"/></a>&nbsp;
-  <a href="https://dribbble.com/mimsha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" width="30"/></a>&nbsp;
-  <a href="https://www.behance.net/mimshadmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" width="30"/></a>&nbsp;
-  <a href="https://www.hackerrank.com/mimshad18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="30"/></a>&nbsp;
-  <a href="https://www.leetcode.com/mimshadmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" width="30"/></a>
+  <a href="https://twitter.com/iam7mim" target="blank" title="Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="30"/></a>&nbsp;
+  <a href="https://linkedin.com/in/mimshad7" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="linkedin" width="30"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/12125940" target="blank" title="Stack Overflow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" width="30"/></a>&nbsp;
+  <a href="https://fb.com/mimshad.mim.7" target="blank" title="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="30"/></a>&nbsp;
+  <a href="https://instagram.com/mimshad18" target="blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30"/></a>&nbsp;
+  <a href="https://dribbble.com/mimsha7" target="blank" title="Dribbble"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" width="30"/></a>&nbsp;
+  <a href="https://www.behance.net/mimshadmim" target="blank" title="Behance"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" width="30"/></a>&nbsp;
+  <a href="https://www.hackerrank.com/mimshad18" target="blank" title="HackerRank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" width="30"/></a>&nbsp;
+  <a href="https://www.leetcode.com/mimshadmim" target="blank" title="LeetCode"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="leetcode" width="30"/></a>
 </p>
 
 <h3 align="left">Skills / দক্ষতাসমূহ</h3>
@@ -50,7 +50,7 @@
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
-  &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
+  &nbsp;<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <br/>
   <!-- Backend -->
