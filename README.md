@@ -1,4 +1,4 @@
-<img width="2048" height="512" alt="banner_git_ln" src="https://github.com/user-attachments/assets/1e19d2f6-6365-4ad7-b4f6-140ba3cfca35" />
+<img width="2064" height="512" alt="linkedin_banner" src="https://github.com/user-attachments/assets/66ebbd16-544d-485c-a17d-7919f8a50f19" />
 
 
 <h1 align="center">Hi 👋, I'm Mimshadur Rahman</h1>
