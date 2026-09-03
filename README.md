@@ -56,8 +56,7 @@
   </a>
 </p>
 
-<!-- Combined Skills / Languages & Tools section (no duplicates) -->
-<h3 align="left">Skills / Languages & Tools / দক্ষতাসমূহ</h3>
+<h3 align="left">Skills / Languages & Tools </h3><br/>
 <p align="left">
   <strong>Languages:</strong><br/>
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36"/> HTML5 &nbsp;&nbsp;
@@ -79,6 +78,7 @@
 
 <p align="left">
   <strong>Backend / DB:</strong><br/>
+  
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36"/> Node.js &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="36"/> Express &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36"/> MongoDB &nbsp;&nbsp;
@@ -87,13 +87,13 @@
 
 <p align="left">
   <strong>Tools:</strong><br/>
+  
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36"/> Git &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36"/> Docker &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" width="36"/> VS Code &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="36"/> Bash
 </p>
 
-<!-- Contributions and streaks card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimshadbuilds&theme=dark" alt="Profile details" />
 </p>
