@@ -56,9 +56,10 @@
   </a>
 </p>
 
-<h3 align="left">Skills / Languages & Tools </h3><br/>
+<h3 align="left">Skills / Languages & Tools </h3>
 <p align="left">
-  <strong>Languages:</strong><br/>
+  <strong>Languages:</strong><br/><br/>
+  
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36"/> HTML5 &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36"/> CSS3 &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36"/> JavaScript &nbsp;&nbsp;
@@ -69,7 +70,8 @@
 </p>
 
 <p align="left">
-  <strong>Frontend / Frameworks & Libraries:</strong><br/>
+  <strong>Frontend / Frameworks & Libraries:</strong><br/><br/>
+  
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36"/> React &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36"/> Next.js &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="36"/> Tailwind CSS &nbsp;&nbsp;
