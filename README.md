@@ -1,10 +1,7 @@
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/mimshadbuilds/mimshadbuilds/main/profile-banner.svg"
-  width="100%"
-  alt="Mim Shad - Developer Banner"
-/>
+<img width="2064" height="512" alt="linkedin_banner" src="https://github.com/user-attachments/assets/e09bfdc5-a300-4f58-914b-3922d0a02fd9" />
+
 
 </div>
 
@@ -25,9 +22,8 @@
 - 🖥️ Currently building a Metro Pass authentication system web app using Next.js + TypeScript
 - 🛠️ Actively learning and using TypeScript, React, Redux, Next.js, Express.js
 - 🗄️ Backend: Node.js, Express.js, MongoDB, PostgreSQL
-- 👨‍💻 Portfolio: [Visit my portfolio](https://portfolio-mr.web.app)
 - 📝 I publish technical posts on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mimshad7)
-- 📫 Email: [mimshad.cse41@gmail.com](mailto:mimshad.cse41@gmail.com)
+- 📫 How to reach me: [Email](mailto:mimshad.cse41@gmail.com)
 - 📄 Resume: [Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link)
 
 ---
@@ -36,7 +32,7 @@
 
 <div align="center">
 
-<h3>✨ My Portfolio</h3>
+<h3>👨‍💻 My Portfolio</h3>
 
 <p>
   A personal space where I showcase projects, skills, experiments and my journey as a developer.
@@ -52,10 +48,6 @@
 </a>
 
 <br>
-
-<i>
-Currently building something I'm proud of. Stay tuned!
-</i>
 
 </div>
 
