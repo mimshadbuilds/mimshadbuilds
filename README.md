@@ -24,7 +24,7 @@
 - 🗄️ Backend: Node.js, Express.js, MongoDB, PostgreSQL
 - 📝 I publish technical posts on LinkedIn: [LinkedIn](https://www.linkedin.com/in/mimshad7)
 - 📫 How to reach me: [Email](mailto:mimshad.cse41@gmail.com)
-- 📄 Resume: [Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1SlWAlLeljjibPt5vp0irC4xG5nO1Klc6/view?usp=drive_link)
 
 ---
 
